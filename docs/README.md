@@ -41,5 +41,9 @@
 * **Сущность "Coach"**
 
 
+### TODO:
+* Lean Startup canvas
+* business model
+* tasks distribution
 
 
