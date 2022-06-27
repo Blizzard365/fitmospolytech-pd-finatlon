@@ -1,7 +1,7 @@
 # Проект "Финатлон"
 
 ### Ссылка на сайт проекта:
-http://future-city.std-1922.ist.mospolytech.ru/
+http://finatlon.std-1922.ist.mospolytech.ru/
 
 ###### Используемые языки:
 * Python 3.9
