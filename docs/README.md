@@ -30,6 +30,7 @@
   ```
   python manage.py runserver
   ```
+ 
 ### Разработка:
 На данный момент создано:
 * **Фронтэнд главной страницы сайта** 
@@ -39,7 +40,6 @@
 * **Сущность "ClassNumbers"**
 * **Сущность "FederalOkrug"**
 * **Сущность "Coach"**
-
 
 ### TODO:
 * Lean Startup canvas
